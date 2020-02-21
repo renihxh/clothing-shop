@@ -1,0 +1,8 @@
+body{
+    font-family: 'Open Sans Condensed';
+}
+.inner-container{
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+}
